@@ -1,3 +1,3 @@
 # CTF
 
-This repo is used CTF archive and its write ups.
+This repo is used to manage previous CTF problems and write ups.
