@@ -9,4 +9,3 @@ author : hackability (Taebeom Kim)
 email  : hackability@naver.com | pwnability@gmail.com
 
 team   : TenDollar
-----------------------------------------------------------------
