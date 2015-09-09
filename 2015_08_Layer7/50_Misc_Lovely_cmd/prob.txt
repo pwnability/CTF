@@ -1,0 +1,12 @@
+It is my first python shell program..
+but this program has some error
+I want to read flag, Can you help me??
+
+nc prob.layer7.kr  31313
+
+HINT = What time is it now??
+
+Point:50
+The number of solvers: 4
+Download Files:
+routine.txt

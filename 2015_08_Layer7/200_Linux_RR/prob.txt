@@ -1,0 +1,8 @@
+flag format : id_pw
+nc prob.layer7.kr 3000
++ 바이너리 교체되었습니다.
+
+Point:200
+The number of solvers: 4
+Download Files:
+RR!

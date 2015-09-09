@@ -1,0 +1,12 @@
+nc prob.layer7.kr 61616
+cat /home/gbwl/flag
+
+빵야빵야빵야
+뷍뷍뷍
+
+breaktrough : +2pt
+
+Point:141
+The number of solvers: 14
+Download Files:
+gbwl-new
