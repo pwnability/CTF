@@ -1,0 +1,3 @@
+You picked up teared QR code fragments. Recover the flag.
+
+Flag is 12 characters without MMA{...}.

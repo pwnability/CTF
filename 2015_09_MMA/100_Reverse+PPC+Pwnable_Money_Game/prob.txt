@@ -1,0 +1,8 @@
+Get $100,000 and the flag.
+
+nc pwn1.chal.mmactf.link 21345
+
+Flag is here.
+
+/home/cthuakzd/flag1
+/home/cthuakzd/flag2
